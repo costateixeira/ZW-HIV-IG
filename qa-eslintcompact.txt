@@ -1,0 +1,15 @@
+HIV
+=========================================
+
+Generic: line 0, col 0, Warning - Unable to find ImplementationGuide.definition.resource.description for the resource StructureDefinition/HIVPatient.  Descriptions are strongly encouraged if they cannot be inferred from the resource to allow proper population of the artifact list. (INVARIANT)
+Generic: line 0, col 0, Error - The link 'references.html' for "References" cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The link 'dependencies.html' for "Dependencies" cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The link 'business-requirements.html' for "Business Requirements" cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The link 'data-models-and-exchange.html' for "Data Models and Exchange" cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The link 'deployment.html' for "Deployment Guidance" cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The link 'downloads.html' for "Downloads" cannot be resolved (NOTFOUND)
+/work/fsh-generated/resources/StructureDefinition-HIVPatient.json: line 1, col 17085, Info - The extension http://hl7.org/fhir/StructureDefinition/elementdefinition-maxValueSet|5.2.0 is deprecated (BUSINESSRULE)
+/work/fsh-generated/resources/StructureDefinition-HIVPatient.json: line 0, col 0, Warning - The Implementation Guide contains no examples for this profile (BUSINESSRULE)
+
+err = 0, warn = 2, info = 1
+IG Publisher Version: 2.0.26

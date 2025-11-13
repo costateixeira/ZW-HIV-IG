@@ -1,0 +1,22 @@
+HIV : Validation Results
+=========================================
+
+err = 0, warn = 2, info = 1
+IG Publisher Version: 2.0.26
+Generated Thu Nov 13 08:51:43 UTC 2025. FHIR version 4.0.1 for zw.fhir.ig.hiv#0.1.0 (canonical = http://mohcc.gov.zw/fhir/hiv)
+ Build Errors : 6 / 1 / 0
+ /work/fsh-generated/resources/ImplementationGuide-zw.fhir.ig.hiv : 0 / 0 / 1
+ /work/fsh-generated/resources/StructureDefinition-HIVPatient : 0 / 1 / 2
+</table>
+== n/a ==
+WARNING: Unable to find ImplementationGuide.definition.resource.description for the resource StructureDefinition/HIVPatient.  Descriptions are strongly encouraged if they cannot be inferred from the resource to allow proper population of the artifact list.
+ERROR: index.html#/html/body/div/div/div/div/div/p/a at Line 299, column 88: The link 'references.html' for "References" cannot be resolved
+ERROR: index.html#/html/body/div/div/div/div/div/p/a at Line 299, column 133: The link 'dependencies.html' for "Dependencies" cannot be resolved
+ERROR: index.html#/html/body/div/div/div/div/div/ul/li/a at Line 306, column 8: The link 'business-requirements.html' for "Business Requirements" cannot be resolved
+ERROR: index.html#/html/body/div/div/div/div/div/ul/li/a at Line 307, column 8: The link 'data-models-and-exchange.html' for "Data Models and Exchange" cannot be resolved
+ERROR: index.html#/html/body/div/div/div/div/div/ul/li/a at Line 308, column 8: The link 'deployment.html' for "Deployment Guidance" cannot be resolved
+ERROR: index.html#/html/body/div/div/div/div/div/ul/li/p/a at Line 334, column 82: The link 'downloads.html' for "Downloads" cannot be resolved
+== fsh-generated/resources/ImplementationGuide-zw.fhir.ig.hiv.json ==
+== fsh-generated/resources/StructureDefinition-HIVPatient.json ==
+INFORMATION: StructureDefinition/HIVPatient: StructureDefinition.snapshot.element[4].binding.extension[0]: The extension http://hl7.org/fhir/StructureDefinition/elementdefinition-maxValueSet|5.2.0 is deprecated
+WARNING: StructureDefinition.where(url = 'http://mohcc.gov.zw/fhir/hiv/StructureDefinition/HIVPatient'): The Implementation Guide contains no examples for this profile

@@ -1,0 +1,16 @@
+[
+  {
+    "id" : "zw.fhir.ig.hiv",
+    "type" : "ImplementationGuide",
+    "url" : "http://mohcc.gov.zw/fhir/hiv/ImplementationGuide/zw.fhir.ig.hiv",
+    "version" : "0.1.0",
+    "name" : "HIV"
+  },
+  {
+    "id" : "HIVPatient",
+    "type" : "StructureDefinition",
+    "url" : "http://mohcc.gov.zw/fhir/hiv/StructureDefinition/HIVPatient",
+    "version" : "0.1.0",
+    "name" : "HIVPatient"
+  }
+]
