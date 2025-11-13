@@ -18,7 +18,7 @@ publisher:
   # email: test@example.org
 
 dependencies:
-  zw.fhir.ig.core
+  zw.fhir.ig.core: current
 
 pages:
   index.md:
